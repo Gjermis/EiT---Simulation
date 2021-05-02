@@ -1,1 +1,1 @@
-# EiT---Simulation
+# EiT-Simulation
